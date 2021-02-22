@@ -17,7 +17,7 @@
 <a href="https://github.com/Xuuujuuu/babybot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Xuuujuuu/babybotcolor=red&style=flat-square"></a>
 <a href="https://github.com/Xuuujuuu/babybot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ramlan666/babybot?color=red&style=flat-square"></a>
 <a href="https://github.com/Xuuujuuu/babybot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ramlan666/babybot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Xuuujuuu%2Fbabybot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ramlan666%2Fbabybot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
 <div align="center">

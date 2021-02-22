@@ -13,15 +13,15 @@
   "keywords": [
     "k"
   ],
-  "author": "RAMLAN",
+  "author": "Xuuujuuu",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ramlan666/babybot.git"
+    "url": "git+https://github.com/Xuuujuuu/babybot.git"
   },
   "bugs": {
-    "url": "https://github.com/Ramlan666/babybot/issues"
+    "url": "https://github.com/Xuuujuuu/babybot/issues"
   },
-  "homepage": "https://github.com/Ramlan666/babybot/readme",
+  "homepage": "https://github.com/Xuuujuuu/babybot/readme",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
